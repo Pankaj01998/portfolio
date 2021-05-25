@@ -53,7 +53,7 @@ a:hover {
 }
 
 .box-shadow, .paralax-mf, .service-box, .work-box, .card-blog {
-  box-shadow: 0 13px 8px -10px rgba(0, 0, 0, 0.1);
+  box-shadow: 18px 18px 10px -10px rgba(0, 0, 0, 0.1);
 }
 
 .box-shadow-a, .button:hover {
@@ -815,7 +815,7 @@ a:hover {
 .about-mf .box-shadow-full {
   padding-top: 4rem;
   padding-bottom: 4rem;
-  border-radius: 4%;
+  border-radius: 1%;
 }
 
 .about-mf .about-img {
