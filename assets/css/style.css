@@ -482,6 +482,7 @@ a:hover {
 */
 .navbar {
   padding: 0;
+  transition: top 0.9s ease;
 }
 
 .navbar ul {
@@ -711,6 +712,14 @@ a:hover {
 .navbar-mobile .dropdown > .dropdown-active {
   display: block;
 }
+
+
+
+
+.navbar-hide1 {
+  top: -100px;
+}
+
 
 /*--------------------------------------------------------------
 # Hero Section
