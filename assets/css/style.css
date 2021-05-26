@@ -123,6 +123,23 @@ a:hover {
   vertical-align: middle;
 }
 
+
+.resume{
+  background-color: #55198b;
+  border-color: #fff;
+}
+
+.resume-el{
+  margin-top: 1rem;
+}
+
+.resume a{
+  color: #fff;
+  font-weight: 700;
+  padding: 10px;
+  font: 19px/23px Montserrat,sans-serif;
+}
+
 /*--/ Sections /--*/
 .sect-4 {
   padding: 4rem 0;
